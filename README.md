@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/fodeee%1108-17213A?style=flat&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/fodeee%234321-17213A?style=flat&logo=discord&logoColor=white" alt="Discord">
   <br>
 <a href="https://twitter.com/youngfoe13" target="_blank"><img src="https://img.shields.io/badge/@AlexFoderaro03-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/youngfoe13" alt="Twitter"></a>
   <br>
