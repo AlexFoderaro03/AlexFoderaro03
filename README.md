@@ -19,4 +19,4 @@
 
 ## GitHub Stats 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlexFoderaro03)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlexFoderaro03&theme=onedark&show_icons=true)
