@@ -1,12 +1,9 @@
-
-
-**AlexFoderaro03/AlexFoderaro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center"> Hello, welcome! 👋 </h1>
 <p align="center">My name is Alex Foderaro but few ones may know me by my nickname - <b>youngfoe13</b><p>
 <h3 align="center">📚 I am a highschool student in Italy & a content creator 👟</h3>
 
-- 🔭 At the moment I am working on a big big project 👀: a CLI autocheckout bot, I usually code in either JS or Python.
-- 🌱 I’m currently working with backend JavaScript and requests
+- 👨🏽‍💻 At the moment I am working on a big big project 👀: a CLI autocheckout bot, I usually code in either JS or Python.
+- 🎰 I’m currently working with backend JavaScript and requests
 
 <br>
 
@@ -20,19 +17,6 @@
 
 <br>
 
-## GitHub Stats <!--
-<p align="center"><img width=60% src="https://github-readme-stats.vercel.app/api?username=rtunazzz&&show_icons=true&title_color=ffb9b0&icon_color=ffb9b0&text_color=ffffff&bg_color=17213A"></p>
--->
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlexFoderaro03)
-<!--
-Here are some ideas to get you started:
+## GitHub Stats 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlexFoderaro03)
